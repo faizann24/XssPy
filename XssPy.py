@@ -41,8 +41,8 @@ traverses the website and find all the links and subdomains first.
 After that, it starts scanning each and every input on each and every
  page that it found while its traversal. It uses small yet effective
 payloads to search for XSS vulnerabilities. XSS in many high
-profile websites and educational institutes has been found
-by using this very tool.
+profile websites and educational institutes have been found
+by using this tool.
 """ + color.END
 
 logger = logging.getLogger(__name__)
