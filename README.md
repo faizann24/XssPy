@@ -1,4 +1,4 @@
-# XssPy - Web Application XSS Scanner
+# XssPy - A Web Tool XSS Scanner
 A tool by Fsecurify
 
 Author: Faizan Ahmad 
